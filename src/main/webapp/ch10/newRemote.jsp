@@ -7,6 +7,6 @@
 <title>newRemote.jsp</title>
 </head>
 <body>
-
+    <h3>동료가 추가한 코드입니다</h3>
 </body>
 </html>
